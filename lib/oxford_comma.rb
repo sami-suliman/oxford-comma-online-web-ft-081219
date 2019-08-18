@@ -5,5 +5,5 @@ end
 if array.length < 2
   array.join
 elsif array.lengh == 2 
-  array.insert(1, "and")
+  array.insert(1, "and").join("")
 end 
