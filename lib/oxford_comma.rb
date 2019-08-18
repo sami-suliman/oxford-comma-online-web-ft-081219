@@ -10,3 +10,4 @@ else
   str = ", and" + array.pop
   str = array.join(", ") << str 
 end 
+end
