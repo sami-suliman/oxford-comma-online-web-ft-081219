@@ -8,5 +8,5 @@ elsif array.lengh == 2
   array.insert(1, "and").join(" ")
 else 
   str = ", and" + array.pop
-  str = array.join(, )
+  str = array.join(", ")
 end 
