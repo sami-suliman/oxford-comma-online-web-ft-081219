@@ -3,5 +3,5 @@ def oxford_comma(array)
 end
 
 if 
-  
+  array
 end 
