@@ -4,5 +4,6 @@ end
 
 if array.length < 2
   array.join
-
+elsif array.lengh == 2 
+  
 end 
