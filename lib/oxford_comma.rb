@@ -7,5 +7,5 @@ if array.length < 2
 elsif array.lengh == 2 
   array.insert(1, "and").join(" ")
 else 
-  str = ""
+  str = ", and"
 end 
